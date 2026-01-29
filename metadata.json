@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of ARAMBH Syllabus Analyzer start",
+  "description": "Expert academic syllabus analyzer and exam mentor tool for ARAMBH Group. Extracts, prioritizes, and organizes syllabus content into exam-ready study plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
